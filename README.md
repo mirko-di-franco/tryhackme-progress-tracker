@@ -1,13 +1,8 @@
-<!--
-  TryHackMe learning roadmap maintained for github.com/jkx00.
-  Room links and the original room inventory are retained from the supplied README.
--->
-
 <div align="center">
 
-# 🛡️ TryHackMe Cybersecurity Roadmap
+# 🛡️ TryHackMe Progress Tracker
 
-### A hands-on room checklist for building practical cybersecurity skills
+### Hands-on cybersecurity labs and skill development
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-Learning-00C7B7?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Cybersecurity learning" />
@@ -15,7 +10,6 @@
   <img src="https://img.shields.io/badge/Progress-Markdown%20Checklist-6E56CF?style=for-the-badge" alt="Markdown checklist" />
 </p>
 
-**Learn by doing · Track your progress · Build your skills**
 
 </div>
 
@@ -23,27 +17,17 @@
 
 ## 👋 About This Repository
 
-This repository organizes a large collection of TryHackMe room links into cybersecurity topics—from beginner fundamentals to web security, digital forensics, reverse engineering, privilege escalation, and Capture the Flag (CTF) practice.
+I'm currently pursuing a two-year Higher Technical Education program (ITS) specializing in Cybersecurity.
 
-Use it as a personal learning tracker. Choose a topic, open a room, complete the exercises in the intended training environment, and check the box when you finish.
+This repository documents my hands-on learning through TryHackMe, tracking completed rooms and the practical skills I'm developing alongside my studies.
 
-> **Please note:** This is a community learning checklist, not an official TryHackMe resource. Room names, links, access requirements, and availability may change over time. Some entries may be duplicated.
+## ⚡ Learning areas
 
-## ✨ What You'll Find
-
-- 🧭 **Topic-based navigation** to help you find rooms by skill area.
-- ✅ **Progress tracking** using GitHub Markdown checkboxes.
-- 🧰 **Practical topics** including Linux, networking, web security, forensics, and reverse engineering.
-- 🏁 **CTF practice** grouped by difficulty.
-- 🔗 **Direct links** to the relevant TryHackMe room pages.
-
-## 🚀 How to Use This Checklist
-
-1. Choose a topic from the table below.
-2. Open a room and check its current availability and access requirements.
-3. Complete the room on TryHackMe.
-4. Change `- [ ]` to `- [x]` to mark a room as complete.
-5. Commit your changes to your own copy of the repository to keep your progress.
+- **Fundamentals:** Linux, Windows, networking and security basics
+- **Security tools:** Nmap, Burp Suite, Metasploit and other hands-on tools
+- **Web security and exploitation:** web vulnerabilities and privilege escalation
+- **Analysis:** digital forensics, packet analysis, reverse engineering and malware analysis
+- **Practice:** CTF challenges organized by difficulty
 
 ## 🗂️ Room Categories
 
@@ -52,7 +36,7 @@ The counts below are carried over from the supplied checklist and have not been 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |     **10**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **5**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
@@ -943,17 +927,9 @@ The counts below are carried over from the supplied checklist and have not been 
 
 ## 🔐 Responsible Learning
 
-Use these rooms and techniques only in the intended training environments or on systems you own or have explicit permission to test. Follow TryHackMe's rules and all applicable laws.
+All activities referenced here are intended for TryHackMe training environments or systems I am explicitly authorized to test.
 
-## 👨‍💻 Maintainer
+## 👨‍💻 Credits and attribution
 
-Curated and formatted for the **jkx00** GitHub learning collection.
+The original room collection and links come from the upstream repository from which this project was forked. GitHub displays the upstream source at the top of the fork page. My contributions here are the progress tracking, personal organization and any notes I add.
 
-- **GitHub:** [@jkx00](https://github.com/jkx00)
-- **Training platform:** [TryHackMe](https://tryhackme.com/p/Mr.JK)
-
-<div align="center">
-
-**Keep learning. Keep building. Stay curious. ⚡**
-
-</div>
